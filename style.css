@@ -1,0 +1,46 @@
+img.instagram {
+	height: 30px;
+}
+
+img.facebook-icon {
+	height: 30px;
+}
+
+img.twitter-logo {
+	height: 30px;
+}
+
+img.developer-image {
+	height: 20em;
+	border-radius: 10px 0;
+}
+
+img.youtube {
+	height: 50px;
+}
+
+body {
+	align-items: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+.navigacija {
+	text-align: center;
+}
+#prati_nas {
+	text-align: center;
+}
+#podaci {
+	text-align: center;
+}
+
+#imas_pitanja {
+	text-align: center;
+}
+
+#slika_developer {
+	text-align: center;
+}
